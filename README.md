@@ -96,7 +96,7 @@ This repository serves as a **visual portfolio and demonstration** of the comple
 
 ## 🛠️ Technology
 
-The application was developed as a modern web application with a focus on usability, responsiveness, and clean interface design.
+The application was developed using React JS for the front-end and Django for the back-end.
 
 ## 👨‍💻 Author
 
